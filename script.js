@@ -136,3 +136,4 @@ document.getElementById('decrement-button').addEventListener('click', () => {
 
 // Iniciar el juego
 displayFruits();
+
